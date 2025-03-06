@@ -29,9 +29,9 @@
 </h1>
 
 <p align="center">
-  This .NET Core API is designed to serve JSON formatted data about bosses from
-  the Mega Man series. It is a backend service built with .NET Core 3.1 and
-  various modern dependencies for data management and API response handling.
+  Esta API do .NET Core foi projetada para fornecer dados no formato JSON sobre chefs da série Mega Man .projetado para servir dados no formato JSON sobre chefs da série Mega Man .  É um serviço de backend criado com o .NET Core 3.1 e diversas dependências contemporâneas para gerenciamento de dados e tratamento de resposta de umAPI .serviço de backend criado com .NET Core 3.1 e diversas dependências contemporâneas para gerenciamento de dados e tratamento de resposta de API .
+
+ Este projeto, que foi desenvolvido usando o Entity Framework Core e outras tecnologias contemporâneas .NET , visa fornecertecnologias um confiávelcomo objetivo fornecer uma API confiável para acessar dados do Mega Man .API para acessar dados do Mega Man ..
   <br />
 </p>
 
